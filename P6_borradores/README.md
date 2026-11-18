@@ -6,3 +6,4 @@ Cada versión nueva se registra acá con su fecha real y qué cambió.
 |---|---|---|
 | informe_v1.md | 2026-11-18 | Primer borrador: solo la sección 2 (Eje I) redactada; el resto marcado como pendiente |
 | informe_v2.md | 2026-11-18 | Sección 2: páginas exactas del libro (verificadas con el PDF), símbolo U para la energía y aclaración sobre la fuente de 150 pF. v1 se conserva sin cambios |
+| informe_v3.md | 2026-11-18 | Se agrega la sección 3 (Eje II) con escenarios de resistencia basados en normas y fabricantes; v1 y v2 se conservan |
