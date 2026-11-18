@@ -8,7 +8,11 @@
 - [ ] Devolución del hito del 13/11, si existe.
 
 ## Datos que faltan
-(se completan al confirmar el caso)
+- Resistencia del camino a tierra del piso técnico (Eje II)
+- Tiempo de subida del pulso ESD (Eje IV)
+- Hoja de datos de un diodo TVS real (Eje V)
+- Verificar capítulo y secciones de Young y Freedman (2009) en el ejemplar
+- Abrir el PDF completo del boletín NASA NEPP 2020 y ubicar autor/fecha de la nota de In Compliance
 
 ## Consultas realizadas a la cátedra
 (registrar fecha real y respuesta)

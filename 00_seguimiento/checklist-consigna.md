@@ -7,6 +7,7 @@ Estados: PENDIENTE · EN PROCESO · COMPLETADO · REVISAR
 - [ ] Figuras y tablas numeradas, con epígrafe y citadas en el texto; capturas legibles — PENDIENTE
 - [ ] Sec. 0 Carátula: código de caso, declaración de autoría y de uso de IA (Anexo V), índice — PENDIENTE
 - [ ] Sec. 1 Encuadre: sistema, función, diagrama de bloques, magnitudes con fuente, hipótesis — PENDIENTE
+- [ ] Eje I: elementos a–f — REVISAR (desarrollado en `P2` y en `informe_v1.md`; falta revisión)
 - [ ] Secs. 2 a 6 (Ejes I a V), cada una con a) fenómeno y ley, b) magnitudes y datos con procedencia, c) al menos un cálculo desarrollado, d) características influyentes y efectos, e) consecuencia y decisión de diseño, f) ≥1 referencia APA 7 — PENDIENTE
 - [ ] Sec. 7 Integración: mapa de acoplamientos, decisión entre ≥2 alternativas, riesgos, impacto energético y ambiental — PENDIENTE
 - [ ] Sec. 8 Conclusiones, limitaciones y bibliografía (≥4 fuentes, ≥2 obligatorias: Serway, Sears-Zemansky, Boylestad para Eje V) — PENDIENTE

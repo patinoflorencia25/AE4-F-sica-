@@ -4,4 +4,4 @@ Cada versión nueva se registra acá con su fecha real y qué cambió.
 
 | Versión | Fecha real | Qué cambió respecto de la anterior |
 |---|---|---|
-| (ninguna todavía) | | |
+| informe_v1.md | 2026-11-18 | Primer borrador: solo la sección 2 (Eje I) redactada; el resto marcado como pendiente |
