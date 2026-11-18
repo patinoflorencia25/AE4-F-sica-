@@ -28,11 +28,11 @@ Estados: PENDIENTE · EN PROCESO · COMPLETADO · REVISAR
 | 16 | Portafolio completo y enlace pegado en la Tarea | PENDIENTE |
 
 ## Archivos creados y modificados (2026-11-18)
-- Eje I: `P2_memoria-calculo/eje1_fenomenos-electricos-estaticos.md` (v2) y `versiones/eje1_v1_plantilla.md` (v1 conservada)
+- Eje I: `P2_memoria-calculo/eje1_fenomenos-electricos-estaticos.md` (v3, verificado con el libro); v1 y v2 en `versiones/`
 - `P1_ficha-encuadre/ficha-encuadre_v3.md` (v2 conservada)
 - `P4_registro-decisiones/registro-decisiones.md`: 2 decisiones registradas
-- `P5_fuentes/fuentes.md` y `bibliografia.md`: 3 fuentes cargadas (1 sin verificar a fondo)
-- `P6_borradores/informe_v1.md`: sección 2 redactada
+- `P5_fuentes/fuentes.md` y `bibliografia.md`: 3 fuentes cargadas (libro obligatorio y onsemi verificados; NASA parcial)
+- `P6_borradores/informe_v1.md` y `informe_v2.md`: sección 2 redactada (v2 con páginas del libro). Con esto ya hay 2 versiones del informe, pero hacen falta dos ANTERIORES a la entregada: se completan cuando existan las versiones siguientes.
 
 ## Preparación inicial
 README.md, 00_seguimiento/*, plantillas P1 a P7, plantillas de los 5 ejes, 3 fichas de simulación, tablas de decisiones y fuentes.
@@ -45,7 +45,7 @@ Los cinco ejes (ver `P2_memoria-calculo/`).
 Las tres (ver `P3_simulaciones/`). Ninguna fue ejecutada.
 
 ## Fuentes pendientes
-Cargadas 3 (1 obligatoria sin ejemplar a mano). Faltan fuentes para Ejes II a V y una fuente de Boylestad o Sears-Zemansky para el Eje V.
+Cargadas 3 (la obligatoria ya verificada con el PDF). Faltan fuentes para Ejes II a V y una fuente de Boylestad o Sears-Zemansky para el Eje V.
 
 ## Decisiones registradas
 2 de las 5 mínimas (ver `P4_registro-decisiones/registro-decisiones.md`).
@@ -55,5 +55,5 @@ informe_v1 (solo sección 2). Falta una versión más anterior a la entregada pa
 
 ## Próximas tareas
 1. Revisar el Eje I (`P2_memoria-calculo/eje1_...md`), comprobar una cuenta a mano y decir qué no se entiende.
-2. Abrir el libro y confirmar capítulo y secciones de capacitancia (P5).
+2. ~~Abrir el libro y confirmar capítulo y secciones~~ HECHO el 2026-11-18 (ver P2 Eje I, sección 11).
 3. Con el Eje I aprobado, desarrollar el Eje II (resistencia a tierra y constante de tiempo RC; faltan datos).

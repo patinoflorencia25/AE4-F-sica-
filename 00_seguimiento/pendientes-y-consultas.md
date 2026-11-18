@@ -11,7 +11,7 @@
 - Resistencia del camino a tierra del piso técnico (Eje II)
 - Tiempo de subida del pulso ESD (Eje IV)
 - Hoja de datos de un diodo TVS real (Eje V)
-- Verificar capítulo y secciones de Young y Freedman (2009) en el ejemplar
+- [x] Verificado en el PDF del libro el 2026-11-18: capítulos, páginas y datos de la referencia
 - Abrir el PDF completo del boletín NASA NEPP 2020 y ubicar autor/fecha de la nota de In Compliance
 
 ## Consultas realizadas a la cátedra
